@@ -52,7 +52,7 @@ Feijão - 3 un - R$ 18.0
 ---
 
 ## 📚 Autor
-André Lucas Ferreira
+###André Lucas Ferreira
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
