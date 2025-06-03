@@ -17,7 +17,7 @@ Projeto desenvolvido como parte dos estudos em desenvolvimento Java Back-End. O 
 ## 🧠 Conceitos aplicados
 
 - **Programação Orientada a Objetos**
-  - Classes: `Produto`, `Venda`, `SistemaDeVendas`
+  - Classes: `Product`, `Sale`, `SalesSystem`
 - **Tratamento de Exceções**
   - `NumberFormatException`, `IOException`
 - **Manipulação de Arquivos**
@@ -29,7 +29,7 @@ Projeto desenvolvido como parte dos estudos em desenvolvimento Java Back-End. O 
 
 ## 📂 Relatório Gerado
 
-Um arquivo chamado `relatorio_vendas.txt` será gerado na raiz do projeto com o conteúdo semelhante a:
+Um arquivo chamado `relatorio_vendas.txt` será gerado na pasta `Relatorio` na raíz do projeto com o conteúdo semelhante a:
 Arroz - 5 un - R$ 25.0
 Feijão - 3 un - R$ 18.0
 
